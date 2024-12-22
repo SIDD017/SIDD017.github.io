@@ -1,0 +1,121 @@
+## Looking for strings? Check the i18n folder.
+
+# showcase
+showcase:
+  enable: true
+  image:
+    x: "images/showcase/showcase.png"
+    _2x: "images/showcase/showcase@2x.png"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-email"
+    URL: "#contact"
+
+  # socialLinks:
+  #   - icon: "linkedin"
+  #     URL: "https://www.linkedin.com/in/adrianmoreno/"
+
+  #   - icon: "square-github"
+  #     URL: "https://github.com/zetxek"
+
+  #   - icon: "x-twitter"
+  #     URL: "https://twitter.com/zetxek"
+
+  #   - icon: "dribbble"
+  #     URL: "#"
+
+  #   - icon: "behance"
+  #     URL: "#"
+
+  #   - icon: "youtube"
+  #     URL: "#"
+
+  #   - icon: "instagram"
+  #     URL: "https://www.instagram.com/zetxek/"
+
+  #   - icon: "square-facebook"
+  #     URL: "https://www.facebook.com/zetxek/"
+
+  #   - icon: "codepen"
+  #     URL: "#"
+
+  #   - icon: "yelp"
+  #     URL: "https://www.yelp.com/"
+
+  #   - icon: "bluesky"
+  #     URL: "https://www.bluesky.com/"
+
+  #   - icon: "threads"
+  #     URL: "https://www.threads.net/"
+
+  #   - icon: "face-smile"
+  #     URL: "https://www.adrianmoreno.info/"
+
+  #   - icon: "user"
+  #     URL: "https://www.adrianmoreno.info/"
+
+  #   - icon: "quote-left"
+  #     URL: "https://www.adrianmoreno.info/"
+
+  #   - icon: "cloud-arrow-down"
+  #     URL: "https://www.adrianmoreno.info/"
+# about
+about:
+  enable: true
+  button:
+    icon: "icon-user"
+    URL: "https://www.linkedin.com/in/siddhartha-jejurkar/"
+  image:
+    x: "images/profile2x.jpg"
+    _2x: "images/profilex.jpg"
+
+# education
+education:
+  enable: true
+  items:
+    - university: "Rochester Institute of Technology"
+      year: "2023-2025"
+      degree: "Master of Science (MSc), Computer Science"
+
+    - university: "Birla Institute of Technology and Science, Pilani"
+      year: "2018-2022"
+      degree: "Bachelor of Engineering (BE), Electrical and Electronics Engineering"
+
+# experience
+## to hiden a button, set the icon to an empty string
+experience:
+  enable: true
+  button:
+    icon: "icon-linkedin"
+    URL: "https://www.linkedin.com/in/siddhartha-jejurkar/"
+  button2:
+    icon: "icon-file-pdf"
+  button3:
+    icon: "icon-cloud-arrow-down"
+    URL: "/experience"
+
+# Client & Work
+client_and_work:
+  enable: true
+
+# #skills
+# skills:
+#   enable: true
+
+# # testimonial
+# testimonial:
+#   enable: true
+
+# contact
+contact:
+  enable: true
+  form:
+    action: "#"
+  button:
+    icon: "icon-email"
+
+# # newsletter
+# newsletter:
+#   enable: true
