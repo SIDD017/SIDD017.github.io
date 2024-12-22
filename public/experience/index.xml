@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Dec 2024 05:53:52 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Teaching Assistant - Rochester Institute of Technology</title>
+      <link>http://localhost:1313/experience/ta/</link>
+      <pubDate>Sat, 21 Dec 2024 05:53:52 -0500</pubDate>
+      <guid>http://localhost:1313/experience/ta/</guid>
+      <description>&lt;h3 id=&#34;teaching-assistant-grader-and-tutor&#34;&gt;Teaching Assistant, Grader and Tutor&lt;/h3&gt;&#xA;&lt;p&gt;Distinguished as 1 of 6 TAs out of the entire Graduate CS Student body, responsible for instructional support&#xA;across three foundational courses (CS1, CS2, and CSAP) for approximately 100 undergraduate students.&lt;/p&gt;&#xA;&lt;p&gt;Delivered weekly recitation sessions, mentoring and individual tutoring, reinforcing fundamental&#xA;programming concepts and advanced software development practices in Java and Python&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Consultant - Genpact</title>
+      <link>http://localhost:1313/experience/genpact/</link>
+      <pubDate>Sat, 21 Dec 2024 05:53:50 -0500</pubDate>
+      <guid>http://localhost:1313/experience/genpact/</guid>
+      <description>&lt;h3 id=&#34;full-stack-development-devops-and-automation-testing&#34;&gt;Full-stack development, Devops and Automation Testing&lt;/h3&gt;&#xA;&lt;p&gt;Engineered a comprehensive CI/CD infrastructure utilizing Jenkins, Ansible, Docker, and AWS EC2, optimizing&#xA;workflows to achieve a 15% reduction in deployment times and effectively double the monthly release cadence.&lt;/p&gt;&#xA;&lt;p&gt;Contributed to the development of a full-stack web application using React, MySQL, and Java Spring Boot&#xA;framework, developing multiple RESTful APIs, resulting in 25% reduction in critical query response times.&lt;/p&gt;&#xA;&lt;p&gt;Optimized an extensive Automation Testing Suite with Selenium WebDriver for frontend validation of a central&#xA;database repository elevating test coverage to 97%, improving software reliability and development efficiency&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Engineer Intern - Nucleus Software Exports Ltd</title>
+      <link>http://localhost:1313/experience/nucleus/</link>
+      <pubDate>Sat, 21 Dec 2024 05:53:47 -0500</pubDate>
+      <guid>http://localhost:1313/experience/nucleus/</guid>
+      <description>&lt;h3 id=&#34;database-migrations&#34;&gt;Database Migrations&lt;/h3&gt;&#xA;&lt;p&gt;Engineered a robust database migration utility using python scripts to automate master migrations and improve&#xA;schema portability between UAT and Production environments, leading to a 40% reduction in migration timelines&lt;/p&gt;&#xA;&lt;p&gt;Integrated a custom testing framework in a product’s SDLC cycle, to verify the referential integrity of databases in different environments, enabling early capture of incompatibilities and 32% reduction in data corruption scenarios&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
