@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.adrianmoreno.info/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Dec 2024 06:35:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pytorch inspired Deep Learning Framework</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
+      <link>https://www.adrianmoreno.info/projects/pytorch/</link>
       <pubDate>Sat, 21 Dec 2024 06:35:55 -0500</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
+      <guid>https://www.adrianmoreno.info/projects/pytorch/</guid>
       <description>&lt;p&gt;This project is a lightweight neural network framework focused on linear layers, implemented in C++ with support for CUDA to enable GPU-based computations. It includes core components such as tensors, linear layers, optimizers, and loss functions. The framework uses a computational graph for efficient gradient computation and backpropagation. With Python bindings via Pybind11, users can integrate it seamlessly into Python workflows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NYC Taxi trips Dataset Analysis</title>
-      <link>http://localhost:1313/projects/nyc/</link>
+      <link>https://www.adrianmoreno.info/projects/nyc/</link>
       <pubDate>Sat, 21 Dec 2024 06:35:54 -0500</pubDate>
-      <guid>http://localhost:1313/projects/nyc/</guid>
+      <guid>https://www.adrianmoreno.info/projects/nyc/</guid>
       <description>&lt;p&gt;Exploratory analysis of 47.5 Million tuples of trip data using relational and document based models to determine&#xA;trends in frequent trip patterns, tipping behavior and annual revenue. Worked on database normalization, cleaning dirty data and performed item-set and association rule mining to assist route prediction and high demand fare calculations&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPU Accelerated Real-time Ray Tracer</title>
-      <link>http://localhost:1313/projects/ray_tracer/</link>
+      <link>https://www.adrianmoreno.info/projects/ray_tracer/</link>
       <pubDate>Sat, 21 Dec 2024 06:09:31 -0500</pubDate>
-      <guid>http://localhost:1313/projects/ray_tracer/</guid>
+      <guid>https://www.adrianmoreno.info/projects/ray_tracer/</guid>
       <description>&lt;p&gt;This project follows from the CPU based implemenation of a simple path tracer created using C++. While it served as a great introduction to ray tracing and graphics programming in general, the base implementation was extremely inefficient as core computations were sequential, resulting in extremely long render times (nearly 1 hour to render a single frame).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Graduate Teaching Assistant - Rochester Institute of Technology</title>
-      <link>http://localhost:1313/experience/ta/</link>
+      <link>https://www.adrianmoreno.info/experience/ta/</link>
       <pubDate>Sat, 21 Dec 2024 05:53:52 -0500</pubDate>
-      <guid>http://localhost:1313/experience/ta/</guid>
+      <guid>https://www.adrianmoreno.info/experience/ta/</guid>
       <description>&lt;h3 id=&#34;teaching-assistant-grader-and-tutor&#34;&gt;Teaching Assistant, Grader and Tutor&lt;/h3&gt;&#xA;&lt;p&gt;Distinguished as 1 of 6 TAs out of the entire Graduate CS Student body, responsible for instructional support&#xA;across three foundational courses (CS1, CS2, and CSAP) for approximately 100 undergraduate students.&lt;/p&gt;&#xA;&lt;p&gt;Delivered weekly recitation sessions, mentoring and individual tutoring, reinforcing fundamental&#xA;programming concepts and advanced software development practices in Java and Python&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software Consultant - Genpact</title>
-      <link>http://localhost:1313/experience/genpact/</link>
+      <link>https://www.adrianmoreno.info/experience/genpact/</link>
       <pubDate>Sat, 21 Dec 2024 05:53:50 -0500</pubDate>
-      <guid>http://localhost:1313/experience/genpact/</guid>
+      <guid>https://www.adrianmoreno.info/experience/genpact/</guid>
       <description>&lt;h3 id=&#34;full-stack-development-devops-and-automation-testing&#34;&gt;Full-stack development, Devops and Automation Testing&lt;/h3&gt;&#xA;&lt;p&gt;Engineered a comprehensive CI/CD infrastructure utilizing Jenkins, Ansible, Docker, and AWS EC2, optimizing&#xA;workflows to achieve a 15% reduction in deployment times and effectively double the monthly release cadence.&lt;/p&gt;&#xA;&lt;p&gt;Contributed to the development of a full-stack web application using React, MySQL, and Java Spring Boot&#xA;framework, developing multiple RESTful APIs, resulting in 25% reduction in critical query response times.&lt;/p&gt;&#xA;&lt;p&gt;Optimized an extensive Automation Testing Suite with Selenium WebDriver for frontend validation of a central&#xA;database repository elevating test coverage to 97%, improving software reliability and development efficiency&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software Engineer Intern - Nucleus Software Exports Ltd</title>
-      <link>http://localhost:1313/experience/nucleus/</link>
+      <link>https://www.adrianmoreno.info/experience/nucleus/</link>
       <pubDate>Sat, 21 Dec 2024 05:53:47 -0500</pubDate>
-      <guid>http://localhost:1313/experience/nucleus/</guid>
+      <guid>https://www.adrianmoreno.info/experience/nucleus/</guid>
       <description>&lt;h3 id=&#34;database-migrations&#34;&gt;Database Migrations&lt;/h3&gt;&#xA;&lt;p&gt;Engineered a robust database migration utility using python scripts to automate master migrations and improve&#xA;schema portability between UAT and Production environments, leading to a 40% reduction in migration timelines&lt;/p&gt;&#xA;&lt;p&gt;Integrated a custom testing framework in a product’s SDLC cycle, to verify the referential integrity of databases in different environments, enabling early capture of incompatibilities and 32% reduction in data corruption scenarios&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Summer of Code - Open Source Development</title>
-      <link>http://localhost:1313/projects/gsoc/</link>
+      <link>https://www.adrianmoreno.info/projects/gsoc/</link>
       <pubDate>Sat, 21 Dec 2024 05:33:14 -0500</pubDate>
-      <guid>http://localhost:1313/projects/gsoc/</guid>
+      <guid>https://www.adrianmoreno.info/projects/gsoc/</guid>
       <description>&lt;p&gt;As an open source contributor, enhanced Blender (3D OSS) across four major release cycles (versions 3.0 to 3.3) bydelivering critical features and resolving high-impact bugs, directly improving functionality and user experience.&lt;/p&gt;&#xA;&lt;p&gt;Boosted performance by optimizing GLSL shaders and integrating custom overlay rendering, resulting in a significant 20% improvement in UI responsiveness for the 2D workspace and accelerating texture mapping tools.&lt;/p&gt;&#xA;&lt;p&gt;Resolved a decade-old design flaw in the BMesh API (Blender’s internal 3D topology data structure) by&#xA;rewriting the low-level selection logic in C, introducing edge selection support in the UV editor, and effectively addressing a backlog of critical user issues.&lt;/p&gt;</description>
     </item>
   </channel>

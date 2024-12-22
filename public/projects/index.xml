@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://www.adrianmoreno.info/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Dec 2024 07:33:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Google Summer of Code - Open Source Development</title>
-      <link>http://localhost:1313/projects/gsoc/</link>
-      <pubDate>Sat, 21 Dec 2024 07:33:14 -0500</pubDate>
-      <guid>http://localhost:1313/projects/gsoc/</guid>
-      <description>&lt;p&gt;As an open source contributor, enhanced Blender (3D OSS) across four major release cycles (versions 3.0 to 3.3) bydelivering critical features and resolving high-impact bugs, directly improving functionality and user experience.&lt;/p&gt;&#xA;&lt;p&gt;Boosted performance by optimizing GLSL shaders and integrating custom overlay rendering, resulting in a significant 20% improvement in UI responsiveness for the 2D workspace and accelerating texture mapping tools.&lt;/p&gt;&#xA;&lt;p&gt;Resolved a decade-old design flaw in the BMesh API (Blender’s internal 3D topology data structure) by&#xA;rewriting the low-level selection logic in C, introducing edge selection support in the UV editor, and effectively addressing a backlog of critical user issues.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 21 Dec 2024 06:35:55 -0500</lastBuildDate>
+    <atom:link href="https://www.adrianmoreno.info/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pytorch inspired Deep Learning Framework</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
+      <link>https://www.adrianmoreno.info/projects/pytorch/</link>
       <pubDate>Sat, 21 Dec 2024 06:35:55 -0500</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
+      <guid>https://www.adrianmoreno.info/projects/pytorch/</guid>
       <description>&lt;p&gt;This project is a lightweight neural network framework focused on linear layers, implemented in C++ with support for CUDA to enable GPU-based computations. It includes core components such as tensors, linear layers, optimizers, and loss functions. The framework uses a computational graph for efficient gradient computation and backpropagation. With Python bindings via Pybind11, users can integrate it seamlessly into Python workflows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NYC Taxi trips Dataset Analysis</title>
-      <link>http://localhost:1313/projects/nyc/</link>
+      <link>https://www.adrianmoreno.info/projects/nyc/</link>
       <pubDate>Sat, 21 Dec 2024 06:35:54 -0500</pubDate>
-      <guid>http://localhost:1313/projects/nyc/</guid>
+      <guid>https://www.adrianmoreno.info/projects/nyc/</guid>
       <description>&lt;p&gt;Exploratory analysis of 47.5 Million tuples of trip data using relational and document based models to determine&#xA;trends in frequent trip patterns, tipping behavior and annual revenue. Worked on database normalization, cleaning dirty data and performed item-set and association rule mining to assist route prediction and high demand fare calculations&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPU Accelerated Real-time Ray Tracer</title>
-      <link>http://localhost:1313/projects/ray_tracer/</link>
+      <link>https://www.adrianmoreno.info/projects/ray_tracer/</link>
       <pubDate>Sat, 21 Dec 2024 06:09:31 -0500</pubDate>
-      <guid>http://localhost:1313/projects/ray_tracer/</guid>
+      <guid>https://www.adrianmoreno.info/projects/ray_tracer/</guid>
       <description>&lt;p&gt;This project follows from the CPU based implemenation of a simple path tracer created using C++. While it served as a great introduction to ray tracing and graphics programming in general, the base implementation was extremely inefficient as core computations were sequential, resulting in extremely long render times (nearly 1 hour to render a single frame).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Summer of Code - Open Source Development</title>
+      <link>https://www.adrianmoreno.info/projects/gsoc/</link>
+      <pubDate>Sat, 21 Dec 2024 05:33:14 -0500</pubDate>
+      <guid>https://www.adrianmoreno.info/projects/gsoc/</guid>
+      <description>&lt;p&gt;As an open source contributor, enhanced Blender (3D OSS) across four major release cycles (versions 3.0 to 3.3) bydelivering critical features and resolving high-impact bugs, directly improving functionality and user experience.&lt;/p&gt;&#xA;&lt;p&gt;Boosted performance by optimizing GLSL shaders and integrating custom overlay rendering, resulting in a significant 20% improvement in UI responsiveness for the 2D workspace and accelerating texture mapping tools.&lt;/p&gt;&#xA;&lt;p&gt;Resolved a decade-old design flaw in the BMesh API (Blender’s internal 3D topology data structure) by&#xA;rewriting the low-level selection logic in C, introducing edge selection support in the UV editor, and effectively addressing a backlog of critical user issues.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
