@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.adrianmoreno.info/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-21T06:35:55-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-12-21T06:35:55-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/projects/pytorch/</loc>
+    <loc>http://localhost:1313/projects/pytorch/</loc>
     <lastmod>2024-12-21T06:35:55-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/projects/nyc/</loc>
+    <loc>http://localhost:1313/projects/nyc/</loc>
     <lastmod>2024-12-21T06:35:54-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/projects/ray_tracer/</loc>
+    <loc>http://localhost:1313/projects/ray_tracer/</loc>
     <lastmod>2024-12-21T06:09:31-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2024-12-21T05:53:52-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/experience/ta/</loc>
+    <loc>http://localhost:1313/experience/ta/</loc>
     <lastmod>2024-12-21T05:53:52-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/experience/genpact/</loc>
+    <loc>http://localhost:1313/experience/genpact/</loc>
     <lastmod>2024-12-21T05:53:50-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/experience/nucleus/</loc>
+    <loc>http://localhost:1313/experience/nucleus/</loc>
     <lastmod>2024-12-21T05:53:47-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/projects/gsoc/</loc>
+    <loc>http://localhost:1313/projects/gsoc/</loc>
     <lastmod>2024-12-21T05:33:14-05:00</lastmod>
   </url><url>
-    <loc>https://www.adrianmoreno.info/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.adrianmoreno.info/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
