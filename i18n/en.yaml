@@ -29,12 +29,10 @@
 - id: "showcase_description"
   translation:
     <p class="lead">
-      Based in Rochester NY, I am a Graduate Student at Rochester Institute of Technology.   
+      Based in Rochester NY, I am a Graduate Student at Rochester Institute of Technology pursuing a Masters degree in Computer Science.   
       </p>
       <p class="lead">
-      My background is diverse, as a specialized generalist. In technology I have a wide range of experiences  which
-      includes full stack development, graphics programming, ML systems implementation, devops and automaton testing 
-      priarily as an individual contributor.
+      My background is diverse, as a specialized generalist having a wide range of experience in the fields of Full-Stack development, Machine Learning Systems Architecture, GPU programming and 3D Computer Graphics primarily as an individual contributor.
     </p>
 
 - id: "showcase_button"
@@ -51,12 +49,12 @@
 - id: "about_content"
   translation:  <p class="lead">
       I am an engineer by formation, curious and energetic - that applies technology to solve real-world 
-      problems. Personally, I’m a very easy going, sociable, fast-learner, curious and natural leader. I 
-      do what I love, and I love what I do. I lead by example and work side by side with my teams.   
+      problems. Personally, I’m a very easy going, sociable, curious and fast-learner. I 
+      do what I love, and I love what I do.   
       </p>
       <p class="lead">
       I am a deliberate jack of all trades, master of none. My profile is a hybrid of technical and 
-      managerial experience, but always related to technological projects. I bring business and product 
+      creative endeavours. I bring business and product 
       vision to tech teams, partly thanks to having started an developed a company. I am a fast learner, 
       curious to see how technology can improve the users experience in multiple areas. I have a strong 
       motivation and sense of responsibility with myself, my team and clients (or peers), and people like 
@@ -78,7 +76,7 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "Over 3 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
+  translation: "Over 3 years of experience working in all kind of project sizes and teams, I have gained experience in Full-Stack development, ML Systems Architecture, GPU programming and 3D Computer Graphics."
 - id: "experience_button"
   translation: "LinkedIn" 
 
