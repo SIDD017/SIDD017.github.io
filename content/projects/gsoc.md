@@ -12,8 +12,8 @@ params:
         btnText: "Project Link"
         URL: "https://archive.blender.org/wiki/2024/wiki/User:Sidd017/FinalReport.html"
     image:  
-        x: "images/blender_gsoc.png"
-        _2x: "images/blender_gsoc.png"
+        x: "images/gsoc.jpg"
+        _2x: "images/gsoc2.jpg"
 ## The content is used for the description of the project
 ---
 As an open source contributor, enhanced Blender (3D OSS) across four major release cycles (versions 3.0 to 3.3) bydelivering critical features and resolving high-impact bugs, directly improving functionality and user experience.

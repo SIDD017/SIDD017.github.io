@@ -12,8 +12,8 @@ params:
         btnText: "Project Link"
         URL: ""
     image:  
-        x: ""
-        _2x: ""
+        x: "images/taxi.webp"
+        _2x: "images/taxi2.webp"
 ## The content is used for the description of the project
 ---
 Exploratory analysis of 47.5 Million tuples of trip data using relational and document based models to determine
