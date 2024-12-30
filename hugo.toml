@@ -1,6 +1,7 @@
 baseURL = "https://www.adrianmoreno.info"
 languageCode = "en"
 theme = "adritian-free-hugo-theme"
+googleAnalytics = "G-YY9K38EQ1E"
 
 [build]
   [build.buildStats]
@@ -186,5 +187,5 @@ theme = "adritian-free-hugo-theme"
       code = "UA-XXXXX-Y"
       enabled = false
   [params.google_tag_manager]
-      code = "GTM-XXXXX"
-      enabled = false
+      code = "G-YY9K38EQ1E"
+      enabled = true
