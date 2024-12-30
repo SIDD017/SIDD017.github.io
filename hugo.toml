@@ -183,9 +183,3 @@ googleAnalytics = "G-YY9K38EQ1E"
   vercelPageInsights = false
   vercelAnalytics = false
   
-  [params.google_analytics]
-      code = "UA-XXXXX-Y"
-      enabled = false
-  [params.google_tag_manager]
-      code = "G-YY9K38EQ1E"
-      enabled = true
